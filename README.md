@@ -1,11 +1,6 @@
 missao-rover-lunar
 
 ## Missão Rover Lunar
-===
+Script de inicialização do rover.
 
-# Script de inicialização do rover.
-
-# 
-
-# \*\*Desenvolvedor(a):\*\* Anna
-
+**Desenvolvedor(a):** Anna
